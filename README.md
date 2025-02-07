@@ -1,5 +1,7 @@
-# Novacrucia
+# Novacrucia (Outdated)
 Novacrucia FB Bot Page for api.kenliejugarap.com
+
+This repository is well outdated stay tuned for v2
 
 # Tutorial
 
